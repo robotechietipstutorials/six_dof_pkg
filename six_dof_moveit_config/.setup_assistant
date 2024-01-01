@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: six_dof_description
+    relative_path: urdf/six_dof_description.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/manipulator.srdf
+  CONFIG:
+    author_name: sanjuna
+    author_email: sanjuna@gmail.com
+    generated_timestamp: 1704118995
